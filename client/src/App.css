@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,300&display=swap');
+
+.alchemy {
+  background: linear-gradient(267.45deg, #05d5ff -34.23%, #53f 99.39%)
+}
+
+.change{
+  /* background-color:red;
+  width:400px; */
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
