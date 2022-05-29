@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nft-marketplace/static/css/main.6c98ebdc.css",
+    "main.js": "/nft-marketplace/static/js/main.56f0e959.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/nft-marketplace/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/nft-marketplace/index.html",
+    "main.6c98ebdc.css.map": "/nft-marketplace/static/css/main.6c98ebdc.css.map",
+    "main.56f0e959.js.map": "/nft-marketplace/static/js/main.56f0e959.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/nft-marketplace/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c98ebdc.css",
+    "static/js/main.56f0e959.js"
+  ]
+}
